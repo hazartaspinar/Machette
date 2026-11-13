@@ -1,0 +1,13 @@
+# Machette output
+machette_*/
+*.jsonl
+*.ofa.json
+
+# API keys — never commit real keys
+provider-config.yaml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
