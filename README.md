@@ -4,6 +4,10 @@ Subdomain discovery tool — a single, plug-and-play Python file that chains
 **subfinder**, **OneForAll** (passive + DNS brute force + altdns permutations)
 and **dnsx** into one pipeline and writes a clean HTML report.
 
+<p align="center">
+  <img src="docs/banner.png" alt="Machette" width="800">
+</p>
+
 It auto-installs every dependency on first run (Linux/macOS/Windows), so there
 is nothing to set up by hand.
 
